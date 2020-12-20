@@ -1,2 +1,4 @@
-package ru.geekbrains;public class test {
+package ru.geekbrains;
+
+public class test {
 }
